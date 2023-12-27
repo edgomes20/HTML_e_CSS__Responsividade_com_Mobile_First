@@ -8,7 +8,7 @@
     padding: 1em 0 0.5em 0;
 }
 
-.swiper-slide img{
+.swiper-slide img {
     width: 100%;
 }
 
@@ -22,7 +22,7 @@
     margin: .5em 0;
 }
 
-.card__descricao {
+.card__descrição {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
@@ -45,19 +45,19 @@
     padding: 1em;
 }
 
-.descricao__titulo {
+.descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
 }
 
-.descricao__titulo-livro {
+.descrição__titulo-livro {
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
 }
 
-.descricao__texto {
+.descrição__texto {
     font-size: 14px;
 }
 
